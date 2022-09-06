@@ -1,0 +1,72 @@
+[
+    {
+     "name": "Ayrton",
+     "surname": "Senna",
+     "sport": "Formula 1",
+     "yob": 1960,
+     "nationality": "Brazilian",
+     "team_colors": ["Blue", "white", "yellow"],
+     "best_position": 1,
+     "id": "1"
+    },
+    {
+     "name": "Cristiano",
+     "surname": "Ronaldo",
+     "sport": "Football",
+     "yob": 1985 ,
+     "nationality": "Portugal",
+     "team_colors": ["Red", "white"],
+     "best_position": 1,
+     "id": "2"
+    },
+    {
+     "name": "Lewis",
+     "surname": "Hamilton",
+     "sport": "Formula 1",
+     "yob": 1985 ,
+     "nationality": "England",
+     "team_colors": ["black", "greenyellow", "purple" ],
+     "best_position": 1,
+     "id": "3"
+    },
+    {
+     "name": "Esteban",
+     "surname": "Ocon",
+     "sport": "Formula 1",
+     "yob": 1996,
+     "nationality": "France",
+     "team_colors": ["Blue", "pink"],
+     "best_position": 11,
+     "id": "4"
+    },
+    {
+     "name": "Jayson",
+     "surname": "Tatum",
+     "sport": "Basket",
+     "yob": 1998,
+     "nationality": "USA",
+     "team_colors": ["green", "white"],
+     "best_position": 2,
+     "id": "5"
+    },
+    {
+     "name": "Morten",
+     "surname": "Frendrup",
+     "sport": "Football",
+     "yob": 2001,
+     "nationality": "Danish",
+     "team_colors": ["red", "yellow", "Blue"],
+     "best_position": 18,
+     "id": "6"
+    },
+    {
+     "name": "Gigi",
+     "surname": "Alvetti",
+     "sport": "bocce",
+     "yob": 1931,
+     "nationality": "Italian",
+     "team_colors": ["purple", "yellow", "white"],
+     "best_position": 4,
+     "id": "7"
+    }
+   ]
